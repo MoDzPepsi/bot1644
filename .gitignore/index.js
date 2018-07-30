@@ -16,7 +16,7 @@ bot.on('ready', () => {
     
     bot.user.setActivity(`!help ${bot.guilds.size} Serveur ! ${bot.users.size}  Utilisateur !`);
     
-    bot.user.setUsername("FunFactionBot");
+    bot.user.setUsername("Varadia");
   console.log('bot connecter !');
 });
 
@@ -442,4 +442,4 @@ if(message.content.startsWith(prefix +'ytsearch')){
                                                 })
 
 
-                                                bot.login('zkFnMjMmDFbT9nSE3fTNRx7E_ItxKgNj');
+                                                bot.login('NDQ5MTIwOTU3NTg0Mzc1ODA4.DkDadg.Zq5Bs137V91LPYVuyFTHNgDbReA');
