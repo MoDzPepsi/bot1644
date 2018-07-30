@@ -442,4 +442,4 @@ if(message.content.startsWith(prefix +'ytsearch')){
                                                 })
 
 
-                                                bot.login('NDQ5MTIwOTU3NTg0Mzc1ODA4.DetpZg.8q3raoHbnMdAbAy5aQd75vNR1tA');
+                                                bot.login('zkFnMjMmDFbT9nSE3fTNRx7E_ItxKgNj');
